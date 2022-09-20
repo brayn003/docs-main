@@ -14,7 +14,10 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@cogoport/eslint-config": "^1.0.12",
+    "@cogoport/stylelint-config": "^1.0.0",
     "eslint": "8.23.1",
-    "eslint-config-next": "12.3.1"
+    "eslint-config-next": "12.3.1",
+    "stylelint": "^14.12.0"
   }
 }
