@@ -1,6 +1,6 @@
 .container {
-	padding-top: calc(180px + 56px);
-	margin-bottom: 180px;
+	height: 560px;
+	padding-top: 200px;
 }
 
 .logo {
