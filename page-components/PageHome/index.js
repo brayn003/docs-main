@@ -1,8 +1,14 @@
 import React from 'react';
 
+import DocPages from './Docs';
+import Hero from './Hero';
+
 function PageHome() {
 	return (
-		<div>PageHome</div>
+		<>
+			<Hero />
+			<DocPages />
+		</>
 	);
 }
 
