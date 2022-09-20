@@ -9,21 +9,21 @@ const docs = [
 		icon        : '⭐',
 		name        : 'Icons',
 		description : 'Simple, beautiful and pixel perfect SVG icons',
-		href        : '/icons/index.html',
+		href        : '/icons',
 	},
 	{
 		key         : 'utils',
 		icon        : '🔧',
-		name        : 'Utils',
+		name        : 'Utilities',
 		description : 'Simple utility functions written in JavaScript',
-		href        : '/utils/index.html',
+		href        : '/utils',
 	},
 	{
 		key         : 'components',
 		icon        : '🧩',
 		name        : 'Components',
 		description : 'Robust and reusable components written in React',
-		href        : '/components/index.html',
+		href        : '/components',
 	},
 ];
 
