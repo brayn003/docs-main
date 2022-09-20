@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "release": "aws s3 sync --acl public-read ./out/ s3://docs.cogoport.io/"
   },
   "dependencies": {
     "next": "12.3.1",
